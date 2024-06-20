@@ -1,3 +1,6 @@
+# About this project
+This is a test and small project in which I use React to build a Web page with different pages and a included game inside - Coder's Tycoon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
